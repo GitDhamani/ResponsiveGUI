@@ -6,7 +6,9 @@ Here I have a List Widget on the left and a Table Widget on the right. The speci
 
 In addition, I wanted the behaviour of the Table columns to also be responsive and grow uniformly with the Widget itself. However I also wanted to show how you can implement a custom width for any particular column and have it remained fixed whilst the others still continue to be responsive. This is implemented by overriding and handling the resizeEvent() method from the MainWindow class and using it to dynamically resize the columns.
 
-https://github.com/GitDhamani/ResponsiveGUI/assets/111576658/0c198545-4f65-4b4f-b43e-f121515c81fa
+https://github.com/GitDhamani/ResponsiveGUI/assets/111576658/d438303b-f807-44e7-a99d-d57fcf46fd85
+
+
 
 
 
