@@ -1,4 +1,4 @@
-#Responsive GUI in QT
+# Responsive GUI in QT
 
 The QT Framework has the ability to create flexible and responsive Graphical User Interfaces (GUI) through its Widget Sizing Policy. This example shows how you have several widgets on your layout and control the responsiveness of each.
 
